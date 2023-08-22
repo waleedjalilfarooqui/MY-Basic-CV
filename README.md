@@ -4,19 +4,16 @@
     <title>✍ WALEED JALIL </title>  
     
 </head>
-
     <table cellspacing ="10px" >
         <tr>
             <td>
                 <img src="1681930052213.jpg" alt="" width="150px"  >
-                
-                </p>
+                   </p>
             </td>    
             <td>
                 <h2><a href="https://www.linkedin.com/in/mohammad-waleed-jalil-farooqui-8516a6257/">Mohammad Waleed Jalil Farooqui </a>  </h1>
                     <p> Final year <strong> Electrical Engineer</strong>
                         <br> Undergraduate <br>
-                       
                         <a href="Capture.PNG" > Transcript</a> <br>
                         <a href="skills.html"> click here to provide feedback</a> <br>
                         <a href="#down"> Jump to skills </a>
@@ -30,15 +27,12 @@
         and interpersonal communication with
         good research skills. consistent,
         dedicated, and disciplined.</p>
-    <hr size=1 color="black">
-   
-     
+    <hr size=1 color="black">   
     <h2><u>Work Experience</u></h2>
     <table border>
         <thead>
             <th> Company</th>
-            <th> duration</th>
-           
+            <th> duration</th>     
         </thead>
         <tbody>
             <tr>
