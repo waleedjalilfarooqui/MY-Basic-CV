@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <head>
     <meta charset="utf-8">
-    <title>✍ WALEED JALIL </title>  
-    
+    <title>✍ WALEED JALIL </title>    
 </head>
     <table cellspacing ="10px" >
         <tr>
